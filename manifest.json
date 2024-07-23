@@ -4,14 +4,14 @@
   "icons": [
     {
       "src": "https://ds-front.github.io/portfolio-ux/assets/img/favicons/Favicon-Android-home-screen-192x192.png",
-      "type": "image/png",
       "sizes": "192x192",
+      "type": "image/png",
       "purpose": "any"
     },
     {
       "src": "https://ds-front.github.io/portfolio-ux/assets/img/favicons/Favicon-Android-splash-screen-512x512.png",
-      "type": "image/png",
       "sizes": "512x512",
+      "type": "image/png",
       "purpose": "maskable"
     }
   ],
