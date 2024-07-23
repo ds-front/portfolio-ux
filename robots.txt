@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /feed/
+
+Sitemap: https://ds-front.github.io/portfolio-ux/sitemap.xml
