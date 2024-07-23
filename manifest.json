@@ -3,13 +3,13 @@
   "name": "Portfolio - Marco Fernandes",
   "icons": [
     {
-      "src": "/assets/img/favicons/Favicon-Android-home-screen-192x192.png",
+      "src": "https://ds-front.github.io/portfolio-ux/assets/img/favicons/Favicon-Android-home-screen-192x192.png?h=17ea0e25e695905f65c3596e670bdb70",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any maskable"
     },
     {
-      "src": "/assets/img/favicons/Favicon-Android-splash-screen-512x512.png",
+      "src": "https://ds-front.github.io/portfolio-ux/assets/img/favicons/Favicon-Android-splash-screen-512x512.png?h=17ea0e25e695905f65c3596e670bdb70",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
