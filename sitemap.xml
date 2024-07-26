@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>/404.html</loc>
+        <loc>https://ds-front.github.io/portfolio-ux/404.html</loc>
     </url>
     <url>
-        <loc>/case-1.html</loc>
+        <loc>https://ds-front.github.io/portfolio-ux/case-1.html</loc>
     </url>
     <url>
-        <loc>/case-3.html</loc>
+        <loc>https://ds-front.github.io/portfolio-ux/case-3.html</loc>
     </url>
     <url>
-        <loc>/</loc>
+        <loc>https://ds-front.github.io/portfolio-ux/</loc>
     </url>
     <url>
-        <loc>/template.html</loc>
-    </url>
-    <url>
-        <loc>/template-case.html</loc>
+        <loc>https://ds-front.github.io/portfolio-ux/offline.html</loc>
     </url>
 </urlset>
